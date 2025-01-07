@@ -33,6 +33,16 @@
 
 ###
 
+<h3 align="left">📈 Progress</h3>
+<ul align="left">
+  <li>🚀 Built <b>FeedbackLoop</b>, a service review platform, to enhance my understanding of CRUD operations and JWT authentication.</li>
+  <li>🔧 Improved my React.js skills by implementing state management using Context API in <b>GadgetHaven</b>.</li>
+  <li>🌟 Currently focusing on optimizing my backend knowledge with <b>Node.js</b> and <b>Express.js</b>.</li>
+  <li>🎯 Exploring efficient ways to integrate <b>MongoDB</b> with scalable server-side applications.</li>
+</ul>
+
+###
+
 <h3 align="left">🛠 Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
@@ -63,10 +73,8 @@
 <h3 align="left">👩‍💻 My GitHub Contributions</h3>
 <p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
 <div align="left">
-  <!-- GitHub commit activity badge -->
   <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
   <img width="12" />
-  <!-- GitHub link badge -->
   <a href="https://github.com/Tahsina2226" target="_blank">
     <img src="https://img.shields.io/github/followers/Tahsina2226?style=social" alt="GitHub followers" />
   </a>
