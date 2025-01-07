@@ -51,8 +51,8 @@
 <p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
 
 <div align="left">
-  <!-- GitHub contributions badge -->
-  <img src="https://img.shields.io/github/commit-activity/y/Tahsina2226" alt="GitHub total pushes" />
+  <!-- GitHub commit activity badge -->
+  <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
   <img width="12" />
   <!-- GitHub link badge -->
   <a href="https://github.com/Tahsina2226" target="_blank">
