@@ -26,7 +26,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-### 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
@@ -58,4 +58,62 @@
   <a href="https://github.com/Tahsina2226" target="_blank">
     <img src="https://img.shields.io/github/followers/Tahsina2226?style=social" alt="GitHub followers" />
   </a>
+</div>
+
+###
+
+<h3 align="left">🎯 My Projects</h3>
+
+<p align="left">🌟 Explore the projects I’ve worked on and contributed to!</p>
+
+<div align="left">
+  <!-- GadgetHaven project -->
+  <a href="https://gadgethaven.com" target="_blank">
+    <img src="https://img.shields.io/badge/GadgetHaven-Ecommerce%20Platform-2A9D8F?style=for-the-badge" height="30" alt="GadgetHaven" />
+  </a>
+  <img width="12" />
+  <!-- FeedbackLoop project -->
+  <a href="https://service-review.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/FeedbackLoop-Service%20Review%20System-4C6A92?style=for-the-badge" height="30" alt="FeedbackLoop" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🌱 I’m currently learning...</h3>
+
+<p align="left">🚀 Exploring new trends in AI and Machine Learning.<br>🎨 Learning design principles for better user experiences.<br>📚 Deepening my understanding of full-stack development technologies, especially Node.js and Express.js.</p>
+
+###
+
+<h3 align="left">📫 How to reach me</h3>
+
+<p align="left">Feel free to connect with me on LinkedIn or via email!</p>
+
+<div align="left">
+  <a href="mailto:tahsina@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ea4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/tahsina-tanvin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<div align="left">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+### 
+
+<h3 align="left">👀 My Recent Activity</h3>
+
+<div align="left">
+  <!-- GitHub activity graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tahsina2226&theme=github" alt="GitHub Activity" />
 </div>
