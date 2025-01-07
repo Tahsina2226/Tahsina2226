@@ -5,29 +5,35 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:tahsinatanvin274@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </div>
 
 ###
 
-<h1 align="center">Here’s a fresh and unique design idea for your introduction:<br><br>✨ Hello, World! I’m Tahsina Tanvin<br>🌟 Dreamer. Creator. Problem-Solver.<br><br>I’m a Computer Science and Engineering student passionate about blending creativity with technology to build innovative solutions. From designing seamless user experiences to diving into complex algorithms, I find joy in every step of the development process.</h1>
+<h1 align="center">✨ Hello, World! I’m Tahsina Tanvin 🌟</h1>
+<h2 align="center">Dreamer. Creator. Problem-Solver.</h2>
+
+<p align="center">I’m a Computer Science and Engineering student passionate about blending creativity with technology to build innovative solutions. From designing seamless user experiences to diving into complex algorithms, I find joy in every step of the development process.</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+<ul align="left">
+  <li>🔭 I’m working as a student and developer, exploring various tech projects and honing my skills in full-stack development.</li>
+  <li>📚 I'm currently learning advanced React.js, MongoDB, and Firebase to enhance my project development capabilities.</li>
+  <li>⚡ In my free time, I enjoy exploring new tech tools, watching movies, and contributing to side projects like FeedbackLoop and GadgetHaven.</li>
+</ul>
 
 ###
 
-<p align="left">🔭 I’m working as a student and developer, exploring various tech projects and honing my skills in full-stack development.<br>📚 I'm currently learning advanced React.js, MongoDB, and Firebase to enhance my project development capabilities.<br>⚡ In my free time, I enjoy exploring new tech tools, watching movies, and contributing to side projects like FeedbackLoop and GadgetHaven.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<h3 align="left">🛠 Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
@@ -46,10 +52,16 @@
 
 ###
 
+<h3 align="left">📬 Get in Touch</h3>
+<ul align="left">
+  <li>📧 Email: <a href="mailto:tahsinatanvin274@gmail.com">tahsinatanvin274@gmail.com</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/">https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/</a></li>
+</ul>
+
+###
+
 <h3 align="left">👩‍💻 My GitHub Contributions</h3>
-
 <p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
-
 <div align="left">
   <!-- GitHub commit activity badge -->
   <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
@@ -62,58 +74,17 @@
 
 ###
 
-<h3 align="left">🎯 My Projects</h3>
-
-<p align="left">🌟 Explore the projects I’ve worked on and contributed to!</p>
-
-<div align="left">
-  <!-- GadgetHaven project -->
-  <a href="https://gadgethaven.com" target="_blank">
-    <img src="https://img.shields.io/badge/GadgetHaven-Ecommerce%20Platform-2A9D8F?style=for-the-badge" height="30" alt="GadgetHaven" />
-  </a>
-  <img width="12" />
-  <!-- FeedbackLoop project -->
-  <a href="https://service-review.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/FeedbackLoop-Service%20Review%20System-4C6A92?style=for-the-badge" height="30" alt="FeedbackLoop" />
-  </a>
-</div>
+<h3 align="left">✨ Fun Facts</h3>
+<ul align="left">
+  <li>🎨 I love creating visually appealing designs and interfaces.</li>
+  <li>🎥 Movie nights and coding sprints are my favorite way to unwind!</li>
+  <li>🌱 I believe in sustainable living and eco-friendly travel.</li>
+</ul>
 
 ###
 
-<h3 align="left">🌱 I’m currently learning...</h3>
-
-<p align="left">🚀 Exploring new trends in AI and Machine Learning.<br>🎨 Learning design principles for better user experiences.<br>📚 Deepening my understanding of full-stack development technologies, especially Node.js and Express.js.</p>
-
-###
-
-<h3 align="left">📫 How to reach me</h3>
-
-<p align="left">Feel free to connect with me on LinkedIn or via email!</p>
-
-<div align="left">
-  <a href="mailto:tahsina@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ea4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/tahsina-tanvin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="left">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-### 
-
-<h3 align="left">👀 My Recent Activity</h3>
-
-<div align="left">
-  <!-- GitHub activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tahsina2226&theme=github" alt="GitHub Activity" />
-</div>
+<h3 align="left">🚀 Featured Projects</h3>
+<ul align="left">
+  <li><b>FeedbackLoop:</b> A Service Review System platform for sharing reviews and exploring feedback. <a href="https://service-review.surge.sh/">Explore FeedbackLoop</a></li>
+  <li><b>GadgetHaven:</b> An e-commerce platform for tech gadgets with an intuitive UI and dynamic features.</li>
+</ul>
