@@ -16,7 +16,7 @@
 ### 
 
 <h1 align="center">✨ Hello, World! I’m Tahsina Tanvin 🌟</h1>
-<h2 align="center">Dreamer. Creator. Problem-Solver.</h2>
+<h2 align="center">Dreamer. Frontend-developer. Problem-Solver.</h2>
 
 <p align="center">I’m a Computer Science and Engineering student passionate about blending creativity with technology to build innovative solutions. From designing seamless user experiences to diving into complex algorithms, I find joy in every step of the development process.</p>
 
