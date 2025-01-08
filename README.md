@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7qD46rD3hVQwXsiw/giphy.gif" />
+  <img height="150" src="[https://media.giphy.com/media/3o7qD46rD3hVQwXsiw/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiuPQlM_WRqbpkc0n-C3yBZnRB_xMtvAiow&s)" />
 </div>
 
 ### 
@@ -104,11 +104,4 @@
   <br>Watch me code my way to success!
 </p>
 
-### 
 
-<h3 align="left">⚙️ Animated Progress Bars</h3>
-<p align="left">
-  <img src="https://progress-bar.dev/50/?scale=100&title=React.js&color=blue&width=200&height=20" alt="React.js progress bar">
-  <img src="https://progress-bar.dev/60/?scale=100&title=MongoDB&color=green&width=200&height=20" alt="MongoDB progress bar">
-  <img src="https://progress-bar.dev/30/?scale=100&title=Node.js&color=red&width=200&height=20" alt="Node.js progress bar">
-</p>
