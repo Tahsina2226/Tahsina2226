@@ -1,4 +1,4 @@
-<><div align="center">
+<div align="center">
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd009kIulXuTC9Qz_WX2ZvOfdpzMAllYEZZA&s" />
 </div>
 
@@ -100,6 +100,8 @@
 ###
 
 <h3 align="left">📊 Most Used Language</h3>
-<div align="left">
-  <img src="https://img.shields.io/github/languages/top/Tahsina2226?color=blue&style=for-the-badge" alt="Most Used Language Badge" />
-</div></>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact" alt="Tahsina2226" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en" alt="Tahsina2226" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsina2226&" alt="Tahsina2226" /></p>
