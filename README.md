@@ -51,48 +51,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
-
-###
-
-<h3 align="left">📬 Get in Touch</h3>
-<ul align="left">
-  <li>📧 Email: <a href="mailto:tahsinatanvin274@gmail.com">tahsinatanvin274@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/">https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/</a></li>
-</ul>
-
-###
-
-<h3 align="left">👩‍💻 My GitHub Contributions</h3>
-<p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
-<div align="left">
-  <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
-  <img width="12" />
-  <a href="https://github.com/Tahsina2226" target="_blank">
-    <img src="https://img.shields.io/github/followers/Tahsina2226?style=social" alt="GitHub followers" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">✨ Fun Facts</h3>
-<ul align="left">
-  <li>🎨 I love creating visually appealing designs and interfaces.</li>
-  <li>🎥 Movie nights and coding sprints are my favorite way to unwind!</li>
-  <li>🌱 I believe in sustainable living and eco-friendly travel.</li>
-</ul>
-
-###
-
-<h3 align="left">🚀 Featured Projects</h3>
-<ul align="left">
-  <li><b>FeedbackLoop:</b> A Service Review System platform for sharing reviews and exploring feedback. <a href="https://service-review.surge.sh/">Explore FeedbackLoop</a></li>
-  <li><b>GadgetHaven:</b> An e-commerce platform for tech gadgets with an intuitive UI and dynamic features.</li>
-</ul>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt
