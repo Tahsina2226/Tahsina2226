@@ -96,3 +96,10 @@
   <li><b>FeedbackLoop:</b> A Service Review System platform for sharing reviews and exploring feedback. <a href="https://service-review.surge.sh/">Explore FeedbackLoop</a></li>
   <li><b>GadgetHaven:</b> An e-commerce platform for tech gadgets with an intuitive UI and dynamic features.</li>
 </ul>
+
+###
+
+<h3 align="left">📊 Most Used Language</h3>
+<div align="left">
+  <img src="https://img.shields.io/github/languages/top/Tahsina2226?color=blue&style=for-the-badge" alt="Most Used Language Badge" />
+</div>
