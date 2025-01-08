@@ -1,4 +1,4 @@
-<div align="center">
+<><div align="center">
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd009kIulXuTC9Qz_WX2ZvOfdpzMAllYEZZA&s" />
 </div>
 
@@ -102,4 +102,4 @@
 <h3 align="left">📊 Most Used Language</h3>
 <div align="left">
   <img src="https://img.shields.io/github/languages/top/Tahsina2226?color=blue&style=for-the-badge" alt="Most Used Language Badge" />
-</div>
+</div></>
