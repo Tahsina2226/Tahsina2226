@@ -89,13 +89,6 @@
   <li>🌱 I believe in sustainable living and eco-friendly travel.</li>
 </ul>
 
-###
-
-<h3 align="left">🚀 Featured Projects</h3>
-<ul align="left">
-  <li><b>FeedbackLoop:</b> A Service Review System platform for sharing reviews and exploring feedback. <a href="https://service-review.surge.sh/">Explore FeedbackLoop</a></li>
-  <li><b>GadgetHaven:</b> An e-commerce platform for tech gadgets with an intuitive UI and dynamic features.</li>
-</ul>
 
 ###
 
@@ -104,4 +97,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en" alt="Tahsina2226" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsina2226&" alt="Tahsina2226" /></p>
+
