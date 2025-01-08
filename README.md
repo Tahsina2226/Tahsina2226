@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25&link=https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" height="25" alt="LinkedIn animated logo" />
   </a>
   <a href="mailto:tahsinatanvin274@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="email animated logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="Twitter animated logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="Discord animated logo" />
 </div>
 
 ###
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
   <img width="12" />
   <a href="https://github.com/Tahsina2226" target="_blank">
-    <img src="https://img.shields.io/github/followers/Tahsina2226?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Tahsina2226?style=social&animate=true" alt="GitHub followers animated" />
   </a>
 </div>
 
