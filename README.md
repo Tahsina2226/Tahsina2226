@@ -11,7 +11,6 @@
   <a href="mailto:tahsinatanvin274@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="email animated logo" />
   </a>
- 
 </div>
 
 ### 
@@ -57,6 +56,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
 ### 
@@ -94,6 +101,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact&animate=true" alt="Tahsina2226" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en&animate=true" alt="Tahsina2226" /></p>
-
-
-
