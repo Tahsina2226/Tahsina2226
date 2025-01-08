@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd009kIulXuTC9Qz_WX2ZvOfdpzMAllYEZZA&s" />
+  <img height="150" src="https://media.giphy.com/media/3o7qD46rD3hVQwXsiw/giphy.gif" />
 </div>
 
 ###
@@ -80,7 +80,7 @@
   </a>
 </div>
 
-###
+### 
 
 <h3 align="left">✨ Fun Facts</h3>
 <ul align="left">
@@ -89,12 +89,9 @@
   <li>🌱 I believe in sustainable living and eco-friendly travel.</li>
 </ul>
 
-
-###
+### 
 
 <h3 align="left">📊 Most Used Language</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact" alt="Tahsina2226" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact&animate=true" alt="Tahsina2226" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en" alt="Tahsina2226" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en&animate=true" alt="Tahsina2226" /></p>
