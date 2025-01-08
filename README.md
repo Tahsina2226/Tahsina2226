@@ -11,8 +11,7 @@
   <a href="mailto:tahsinatanvin274@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="email animated logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="Twitter animated logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="Discord animated logo" />
+ 
 </div>
 
 ### 
