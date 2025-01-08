@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/3o7qD46rD3hVQwXsiw/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiuPQlM_WRqbpkc0n-C3yBZnRB_xMtvAiow&s)" />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiuPQlM_WRqbpkc0n-C3yBZnRB_xMtvAiow&s" />
 </div>
 
 ### 
@@ -96,12 +96,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en&animate=true" alt="Tahsina2226" /></p>
 
-### 
-
-<h3 align="left">🎬 Animated Text Example</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/3oEjI5mCAs3HPsM4l6/giphy.gif" />
-  <br>Watch me code my way to success!
-</p>
 
 
