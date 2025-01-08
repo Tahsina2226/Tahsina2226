@@ -2,11 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/3o7qD46rD3hVQwXsiw/giphy.gif" />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25&link=https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" height="25" alt="LinkedIn animated logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="LinkedIn animated logo" />
   </a>
   <a href="mailto:tahsinatanvin274@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="email animated logo" />
@@ -15,14 +15,14 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="Discord animated logo" />
 </div>
 
-###
+### 
 
 <h1 align="center">✨ Hello, World! I’m Tahsina Tanvin 🌟</h1>
 <h2 align="center">Dreamer. Creator. Problem-Solver.</h2>
 
 <p align="center">I’m a Computer Science and Engineering student passionate about blending creativity with technology to build innovative solutions. From designing seamless user experiences to diving into complex algorithms, I find joy in every step of the development process.</p>
 
-###
+### 
 
 <h3 align="left">👩‍💻 About Me</h3>
 <ul align="left">
@@ -31,7 +31,7 @@
   <li>⚡ In my free time, I enjoy exploring new tech tools, watching movies, and contributing to side projects like FeedbackLoop and GadgetHaven.</li>
 </ul>
 
-###
+### 
 
 <h3 align="left">📈 Progress</h3>
 <ul align="left">
@@ -41,7 +41,7 @@
   <li>🎯 Exploring efficient ways to integrate <b>MongoDB</b> with scalable server-side applications.</li>
 </ul>
 
-###
+### 
 
 <h3 align="left">🛠 Languages and Tools</h3>
 <div align="left">
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
-###
+### 
 
 <h3 align="left">📬 Get in Touch</h3>
 <ul align="left">
@@ -68,7 +68,7 @@
   <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/">https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/</a></li>
 </ul>
 
-###
+### 
 
 <h3 align="left">👩‍💻 My GitHub Contributions</h3>
 <p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
@@ -95,3 +95,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact&animate=true" alt="Tahsina2226" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en&animate=true" alt="Tahsina2226" /></p>
+
+### 
+
+<h3 align="left">🎬 Animated Text Example</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/3oEjI5mCAs3HPsM4l6/giphy.gif" />
+  <br>Watch me code my way to success!
+</p>
+
+### 
+
+<h3 align="left">⚙️ Animated Progress Bars</h3>
+<p align="left">
+  <img src="https://progress-bar.dev/50/?scale=100&title=React.js&color=blue&width=200&height=20" alt="React.js progress bar">
+  <img src="https://progress-bar.dev/60/?scale=100&title=MongoDB&color=green&width=200&height=20" alt="MongoDB progress bar">
+  <img src="https://progress-bar.dev/30/?scale=100&title=Node.js&color=red&width=200&height=20" alt="Node.js progress bar">
+</p>
