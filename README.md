@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiuPQlM_WRqbpkc0n-C3yBZnRB_xMtvAiow&s" />
-</div>
+
 
 ### 
 
