@@ -1,101 +1,110 @@
-
-
-### 
-
 <div align="center">
+
+<!-- Animated header with gradient waves -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tahsina%20Tanvin&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=55&descSize=20)
+
+<!-- Social badges -->
+<div>
   <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="LinkedIn animated logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tahsinatanvin274@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge&logoWidth=25" height="25" alt="email animated logo" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-### 
-
-<h1 align="center">✨ Hello, World! I’m Tahsina Tanvin 🌟</h1>
-<h2 align="center">Dreamer. Frontend-developer. Problem-Solver.</h2>
-
-<p align="center">I’m a Computer Science and Engineering student passionate about blending creativity with technology to build innovative solutions. From designing seamless user experiences to diving into complex algorithms, I find joy in every step of the development process.</p>
-
-### 
-
-<h3 align="left">👩‍💻 About Me</h3>
-<ul align="left">
-  <li>🔭 I’m working as a student and developer, exploring various tech projects and honing my skills in full-stack development.</li>
-  <li>📚 I'm currently learning advanced React.js, MongoDB, and Firebase to enhance my project development capabilities.</li>
-  <li>⚡ In my free time, I enjoy exploring new tech tools, watching movies, and contributing to side projects like FeedbackLoop and GadgetHaven.</li>
-</ul>
-
-### 
-
-<h3 align="left">📈 Progress</h3>
-<ul align="left">
-  <li>🚀 Built <b>FeedbackLoop</b>, a service review platform, to enhance my understanding of CRUD operations and JWT authentication.</li>
-  <li>🔧 Improved my React.js skills by implementing state management using Context API in <b>GadgetHaven</b>.</li>
-  <li>🌟 Currently focusing on optimizing my backend knowledge with <b>Node.js</b> and <b>Express.js</b>.</li>
-  <li>🎯 Exploring efficient ways to integrate <b>MongoDB</b> with scalable server-side applications.</li>
-</ul>
-
-### 
-
-<h3 align="left">🛠 Languages and Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
-
-### 
-
-<h3 align="left">📬 Get in Touch</h3>
-<ul align="left">
-  <li>📧 Email: <a href="mailto:tahsinatanvin274@gmail.com">tahsinatanvin274@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/">https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/</a></li>
-</ul>
-
-### 
-
-<h3 align="left">👩‍💻 My GitHub Contributions</h3>
-<p align="left">🌟 Check out my GitHub for the latest projects and contributions!</p>
-<div align="left">
-  <img src="https://img.shields.io/github/commit-activity/w/Tahsina2226" alt="GitHub commit activity" />
-  <img width="12" />
   <a href="https://github.com/Tahsina2226" target="_blank">
-    <img src="https://img.shields.io/github/followers/Tahsina2226?style=social&animate=true" alt="GitHub followers animated" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
-### 
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;React+Lover;Clean+Code+Advocate)
 
-<h3 align="left">✨ Fun Facts</h3>
-<ul align="left">
-  <li>🎨 I love creating visually appealing designs and interfaces.</li>
-  <li>🎥 Movie nights and coding sprints are my favorite way to unwind!</li>
-  <li>🌱 I believe in sustainable living and eco-friendly travel.</li>
-</ul>
+</div>
 
-### 
+---
 
-<h3 align="left">📊 Most Used Language</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahsina2226&show_icons=true&locale=en&layout=compact&animate=true" alt="Tahsina2226" /></p>
+## 👩‍💻 About Me
+I am a Computer Science and Engineering student passionate about building **full-stack applications** that solve real-world problems. I enjoy creating **seamless user experiences** and continuously expanding my technical skills.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&locale=en&animate=true" alt="Tahsina2226" /></p>
+- 🔭 Currently working on **React + Node.js projects**  
+- 🌱 Learning **TypeScript, Redux Toolkit & PostgreSQL**  
+- 👯 Open to collaborating on **open-source projects**  
+- 💬 Ask me about **React, JavaScript, or full-stack development**  
+- ⚡ Fun fact: I can **debug code while watching movies!**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding GIF">
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+[![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsina2226&show_icons=true&theme=radical&count_private=true&hide=issues)](https://github.com/Tahsina2226)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahsina2226&theme=radical)](https://github.com/Tahsina2226)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahsina-tanvin-8a49162b3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahsinatanvin274@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahsina2226)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Tahsina2226&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer with waving animation -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn)
+
+**Thanks for visiting my profile!**  
+⭐️ From [Tahsina](https://github.com/Tahsina2226)
+
+</div>
